@@ -1,6 +1,6 @@
 {
-  "name": "@lucastanger/vite-plugin-inject-lib-css",
-  "version": "1.0.1",
+  "name": "vite-plugin-inject-lib-css",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
