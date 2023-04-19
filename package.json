@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-inject-lib-css",
+  "name": "@lucastanger/vite-plugin-inject-lib-css",
   "version": "1.0.1",
   "description": "",
   "scripts": {
