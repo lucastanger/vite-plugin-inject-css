@@ -11,7 +11,7 @@ const template = `console.warn("__INJECT__")`;
 let viteConfig: ResolvedConfig;
 const css: string[] = [];
 
-export default function libInjectCss(): PluginOption {
+export default function injectStyles(): PluginOption {
   return {
     name: 'inject-css',
     apply: 'build',
