@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-inject-lib-css",
+  "name": "vite-plugin-lib-inject-styles",
   "version": "1.0.0",
   "description": "",
   "scripts": {
