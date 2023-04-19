@@ -1,7 +1,20 @@
 {
   "name": "vite-plugin-lib-inject-styles",
   "version": "1.0.1",
-  "description": "",
+  "description": "This vite plugin enables you to inject css files in vite lib mode.",
+  "keywords": [
+    "vite",
+    "plugin",
+    "lib",
+    "build",
+    "vite-lib",
+    "vite-plugin",
+    "vite-build",
+    "css",
+    "style",
+    "styles",
+    "inject"
+  ],
   "repository": {
     "url": "https://github.com/lucastanger/vite-plugin-inject-css",
     "type": "git"
